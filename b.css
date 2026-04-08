@@ -1,0 +1,6 @@
+.grid-2{
+color: var(--color-text-primary);        /* main text */
+background: var(--color-background-secondary); /* metric cards */
+border: 0.5px solid var(--color-border-tertiary); /* card borders */
+color: var(--color-text-success / -warning / -danger); /* status pills */
+}
